@@ -6,3 +6,4 @@ name:amking
 
 addr wanyinguoji
 test
+lp shamei
