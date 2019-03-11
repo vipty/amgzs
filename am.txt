@@ -8,4 +8,5 @@ addr wanyinguoji
 test
 lp shamei
 ez junjun
+bumen jishubu
 am test
